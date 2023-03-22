@@ -7,4 +7,5 @@ location            = "EastUS"
 admin_user          = "azureuser"
 vnet_name           = "jenkins-demo-vnet-01"
 subnet_name         = "jenkins-demo-sn-01"
-my_ip               = "*"
+my_ip               = "170.55.101.87"
+
